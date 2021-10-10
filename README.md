@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Meu nome á Aline, sou uma futura Cientista de Dados brasileira, apaixonada por Matemática e  Aprendizado de Máquina.
+
+Licenciada em Matemática, acredito que as pessoas são capazes de transformar o mundo por meio de ações e resolução de problemas reais.
+
+💻 Tecnologias e ferramentas: Python, SQL.
+📫 Como entrar em contato comigo: aline_leme@yahoo.com.br
+🔍 Meu LinkedIn: https://www.linkedin.com/in/aline-leme-da-silva/
+
 <!--
 **EnilaLeme/EnilaLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

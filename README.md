@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome á Aline, sou uma futura Cientista de Dados brasileira, apaixonada por Matemática e  Aprendizado de Máquina.
+Meu nome é Aline, sou uma futura Cientista de Dados brasileira, apaixonada por Matemática e Aprendizado de Máquina.
 
 Licenciada em Matemática, acredito que as pessoas são capazes de transformar o mundo por meio de ações e resolução de problemas reais.
 
